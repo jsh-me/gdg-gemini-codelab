@@ -21,7 +21,7 @@ todo 주석을 채워 멀티모달모델 사용하기
 
 ⚠️ 이 때 Apikey 추가를 해도 빌드가 되지 않는 경우, 아래 방법으로 대체한다.
 
-예시) Gemini Api Doce 의 [텍스트 전용 입력에서 텍스트 생성](https://ai.google.dev/gemini-api/docs/get-started/android?hl=ko#generate-text-from-text-input) 코드 일부
+예시) Gemini Api Docs 의 [텍스트 전용 입력에서 텍스트 생성](https://ai.google.dev/gemini-api/docs/get-started/android?hl=ko#generate-text-from-text-input) 코드 일부
 ``` kotlin
 val generativeModel = GenerativeModel(
     modelName = "gemini-pro",
