@@ -14,6 +14,9 @@ todo 주석을 채워 멀티모달모델 사용하기
 
 ### Step
 1. [Google AI Studio](https://aistudio.google.com/app/apikey) 접속 후 Create API Key 버튼을 통해 Api key 발급
+
+⚠️ 구글 계정이 학교 계정일 경우 해당 링크 접속이 안될수도 있으니 개인 계정으로 접속을 권장
+
 2. local.properties file 에서 발급받은 apikey 를 추가
 
 ⚠️ 이 때 Apikey 추가를 해도 빌드가 되지 않는 경우, 아래 방법으로 대체한다.
