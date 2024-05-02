@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">gemini-codelab</string>
+
+    <string name="reason_label">Question</string>
+    <string name="reason_hint">Upload an image and then ask a question</string>
+    <string name="add_image">Add Image</string>
+    <string name="action_go">Go</string>
+    <string name="action_try">Try it</string>
+</resources>
